@@ -2,7 +2,6 @@
 
 [![Django](https://img.shields.io/badge/Django-5.0-green?logo=django)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/DRF-3.15-red?logo=fastapi\&logoColor=white)](https://www.django-rest-framework.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Веб-приложение для учёта и анализа ДДС (движения денежных средств).
 Поддерживает работу через веб-интерфейс и REST API.
@@ -152,3 +151,4 @@ pytest -q
 * **DB:** SQLite
 * **Frontend:** Django Templates, Bootstrap 5, Vanilla JS
 * **Тесты:** pytest
+
