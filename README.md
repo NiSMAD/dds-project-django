@@ -152,9 +152,3 @@ pytest -q
 * **DB:** SQLite
 * **Frontend:** Django Templates, Bootstrap 5, Vanilla JS
 * **Тесты:** pytest
-
----
-
-## 📜 Лицензия
-
-Проект распространяется под лицензией [MIT](LICENSE).
